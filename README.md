@@ -1,10 +1,28 @@
 # Driving-Hazards
 An HTC Vive VR application which simulates the hazards involved with animals crossing the road.
 
+Car Interior
 ![alt text](https://raw.githubusercontent.com/saayv1/Driving-Hazards/master/drivingHazardsImages/dh1.png)
+
+![alt text](https://raw.githubusercontent.com/saayv1/Driving-Hazards/master/drivingHazardsImages/dh2.png)
+
+
+![alt text](https://raw.githubusercontent.com/saayv1/Driving-Hazards/master/drivingHazardsImages/dh3.png)
+
+
+![alt text](https://raw.githubusercontent.com/saayv1/Driving-Hazards/master/drivingHazardsImages/dh4.png)
+
+
+![alt text](https://raw.githubusercontent.com/saayv1/Driving-Hazards/master/drivingHazardsImages/dh5.png)
+
+![alt text](https://raw.githubusercontent.com/saayv1/Driving-Hazards/master/drivingHazardsImages/dh6.png)
+
+
+
 # Requirements
 
 * Unity 2017.3.1
+* HTC Vive (optional)
 
 # Packages Included
 
