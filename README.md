@@ -1,7 +1,7 @@
 # Driving-Hazards
 An HTC Vive VR application which simulates the hazards involved with animals crossing the road.
 
-Car Interior
+# Screenshots
 ![alt text](https://raw.githubusercontent.com/saayv1/Driving-Hazards/master/drivingHazardsImages/dh1.png)
 
 ![alt text](https://raw.githubusercontent.com/saayv1/Driving-Hazards/master/drivingHazardsImages/dh2.png)
@@ -44,7 +44,8 @@ simply download it from the clone option on this page
 * select the 'Open' option
 * Navigate to the directory in which you've cloned the project using the popup file explorer window
 * click on 'Open'
-* after the project has loaded completely, double-click the 'Drive' scene.
-* Go to Assets/Vive and selecct Real World Simulator
-* check the simulator
+* after the project has loaded completely, double-click the 'Driving' scene
+** If you aren't using the HTC Vive,select Vive/Real World Simulator within the Driving scene
+** If you aren't using the HTC Vive, go to the inspector and check the checkBox next to Real world simulator 
+
 
