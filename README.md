@@ -45,7 +45,22 @@ simply download it from the clone option on this page
 * Navigate to the directory in which you've cloned the project using the popup file explorer window
 * click on 'Open'
 * after the project has loaded completely, double-click the 'Driving' scene
-** If you aren't using the HTC Vive,select Vive/Real World Simulator within the Driving scene
-** If you aren't using the HTC Vive, go to the inspector and check the checkBox next to Real world simulator 
+
+* select Vive/Real World Simulator within the Driving scene
+* If you aren't using the HTC Vive, 
+    * go to the inspector and check the checkBox next to Real world simulator 
+    * Go into the Real World Simulator and select the handheld controllers to operate the car and use the head mounted display to adjust the view. 
+
+# Controls
+
+* Right Vive Trigger Button: -The Right Vive Trigger Button is used for accelerating the car. If you leave the trigger button the car will start to decelerate.
+
+* Left Vive Touchpad: -With the help of the left Vive touchpad you can interact with the car steering and move It accordingly so as to move the car in the desired direction.
+
+* Right Vive Touchpad: -With the help of the right Vive touchpad you can interact with the car steering and move It accordingly to move the car in the desired direction.
+
+* Left Trigger Button:-If you want to brake the car while it’s in motion you should use the left trigger button.
+
+* Right Grip Button: - If you want to reposition the car back to its initial position you should use the right grip button.
 
 
